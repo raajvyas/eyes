@@ -9,8 +9,8 @@ How to Run:
 <ul> Move your mouse pointer on the screen and see the eyes follow your pointer </ul>
 
 Roadmap of future improvements:
-<ul> Expand bus tracking to other campus routes </ul>
-<ul> Integrate with local transit system to build close-to real time capability </ul>
+<ul> Handle mouse move over when pointer is brought between two eyes </ul>
+<ul> Make the eye blink to make it more realistic </ul>
 
 MIT License
 
